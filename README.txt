@@ -1,4 +1,4 @@
-🌍 Análisis Global de Emisiones de CO₂ (Power BI)
+## 🌍 Análisis Global de Emisiones de CO₂ (Power BI)
 
 Este repositorio contiene un proyecto de exploración y visualización de datos centrado en las emisiones de dióxido de carbono (CO₂) a nivel mundial. El objetivo es identificar tendencias históricas, principales fuentes de emisión y el impacto relativo por país mediante indicadores per cápita.
 
