@@ -18,9 +18,7 @@ Incluye métricas anuales, datos por tipo de combustible y crecimiento porcentua
 - all.csv (Data Complementaria): Archivo de apoyo utilizado para el enriquecimiento de datos.
 Permite mapear los nombres de los países con sus códigos Alpha-2 y Alpha-3, facilitando la integración geoespacial en Power BI.
 
-- PRACTICA.pbix (Solución):
-
-Archivo maestro de Power BI que contiene el modelo de datos, las medidas DAX y el diseño visual del dashboard.
+- PRACTICA.pbix (Solución): Archivo maestro de Power BI que contiene el modelo de datos, las medidas DAX y el diseño visual del dashboard.
 
 🛠️ Proceso de ETL y Modelado
 - Extracción: Carga de archivos CSV y conexión de datos.
